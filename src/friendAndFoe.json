@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Luke Skywalker",
+    "image": "https://bit.ly/2TEuvNl"
+
+  },
+  {
+    "id": 2,
+    "name": "Leia",
+    "image": "https://bit.ly/2KD4ATz"
+
+  },
+  {
+    "id": 3,
+    "name": "Darth Vader",
+    "image": "https://bit.ly/2YGaZFZ"
+
+  },
+  {
+    "id": 4,
+    "name": "Obi-Wan",
+    "image": "https://bit.ly/2KKDJDM"
+
+  },
+  {
+    "id": 5,
+    "name": "Darth Maul",
+    "image": "https://binged.it/2OZ9oH8"
+
+  },
+  {
+    "id": 6,
+    "name": "Han Solo",
+    "image": "https://binged.it/2MRYGPO"
+
+  },
+  {
+    "id": 7,
+    "name": "Chewbacca",
+    "image": "https://binged.it/33tFAVZ"
+
+  },
+  {
+    "id": 8,
+    "name": "C3PO and R2D2",
+    "image": "https://dailym.ai/2yOP688"
+
+  },
+  {
+    "id": 9,
+    "name": "Qui-Gon Jinn",
+    "image": "https://binged.it/2OZ9COu"
+
+  },
+  {
+    "id": 10,
+    "name": "Poe Damero",
+    "image": "https://binged.it/2GZIxnM"
+
+  },
+  {
+    "id": 11,
+    "name": "Owen Lars",
+    "image": "https://bit.ly/2UP67N0"
+
+  },
+  {
+    "id": 12,
+    "name": "Padme Amidala",
+    "image": "https://dailym.ai/2YF7DDo"
+
+  }
+]
